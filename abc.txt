@@ -1,0 +1,2 @@
+npm i react-router-dom sass 
+react-redux react-icons @reduxjs/toolkit react-hot-toast
